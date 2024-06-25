@@ -1,0 +1,12 @@
+C:\Users\iipl\source\repos\TextProject\obj\Debug\TextProject.csproj.AssemblyReference.cache
+C:\Users\iipl\source\repos\TextProject\obj\Debug\TextProject.Form1.resources
+C:\Users\iipl\source\repos\TextProject\obj\Debug\TextProject.Properties.Resources.resources
+C:\Users\iipl\source\repos\TextProject\obj\Debug\TextProject.csproj.GenerateResource.cache
+C:\Users\iipl\source\repos\TextProject\obj\Debug\TextProject.csproj.CoreCompileInputs.cache
+C:\Users\iipl\source\repos\TextProject\bin\Debug\TextProject.exe.config
+C:\Users\iipl\source\repos\TextProject\bin\Debug\TextProject.exe
+C:\Users\iipl\source\repos\TextProject\bin\Debug\TextProject.pdb
+C:\Users\iipl\source\repos\TextProject\obj\Debug\TextProject.exe
+C:\Users\iipl\source\repos\TextProject\obj\Debug\TextProject.pdb
+C:\Users\iipl\source\repos\TextProject\obj\Debug\TextProject.product.resources
+C:\Users\iipl\source\repos\TextProject\obj\Debug\TextProject.register.resources
